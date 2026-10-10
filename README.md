@@ -1,18 +1,30 @@
-# Portfolio (local staging)
+[README.md](https://github.com/user-attachments/files/33281860/README.md)
+# Hi, I'm Nikko 👋
 
-Files ready to push to your GitHub. See [PUSH.md](./PUSH.md).
+Student interested in **software**, **robotics**, and building things that move — from Android apps to rover simulation.
 
-## Projects
+## Currently
 
-| Folder | GitHub repo name | Description |
-|--------|------------------|-------------|
-| `profile-readme/` | `YOUR_USER/YOUR_USER` | Homepage README |
-| `rover-teleop-sim/` | `rover-teleop-sim` | Diff-drive teleop + waypoint follower |
-| *(next)* | Android / Unity | Upload real apps when ready |
+- Building public projects for student rover / robotics software
+- Practising teleop, path planning, and onboard communication ideas
+- Also exploring Android + Unity
 
-## Enrichment plan (keep doing)
+## Featured projects
 
-1. Pin 1–3 good repos (quality > quantity)
-2. Every repo needs: clear README, how to run, screenshot/GIF if possible
-3. Push Android / Unity projects as separate public repos (even WIP is fine if README is honest)
-4. Small, frequent commits beat one empty account
+| Project | What it is |
+|---------|------------|
+| [rover-teleop-sim](https://github.com/nikkowong0000-lab/rover-teleop-sim) | Drive a simulated rover with keyboard; click waypoints to auto-follow |
+| [grid-path-planner](https://github.com/nikkowong0000-lab/grid-path-planner) | A* pathfinding around obstacles (navigation basics) |
+| [rover-command-protocol](https://github.com/nikkowong0000-lab/rover-command-protocol) | JSON command/telemetry format (Mission Control ↔ rover) |
+
+## Skills I'm growing
+
+`Python` · `Android` · `Unity` · `Git` · control / simulation / planning basics
+
+## Connect
+
+- GitHub: [nikkowong0000-lab](https://github.com/nikkowong0000-lab)
+
+---
+
+*Open to student engineering teams and learning-by-building.*
